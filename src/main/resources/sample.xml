@@ -1,0 +1,1003 @@
+<response>
+    <row>
+        <row _id="row-2hak.uiqr~hrqg" _uuid="00000000-0000-0000-DD27-E80B580546E2" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-2hak.uiqr~hrqg">
+            <reportdate>2020-06-12T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>13</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-vsbi.zcp4_66fn" _uuid="00000000-0000-0000-9F6E-1339B4A137A5" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-vsbi.zcp4_66fn">
+            <reportdate>2020-06-12T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>25</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-kwf5.brtg.r5yt" _uuid="00000000-0000-0000-0CFA-63DE6CFE8675" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-kwf5.brtg.r5yt">
+            <reportdate>2020-06-13T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>11</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-9ykx-g99s.scrj" _uuid="00000000-0000-0000-712E-BC4F5E626E07" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-9ykx-g99s.scrj">
+            <reportdate>2020-06-13T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>26</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-a69d_miyw.mtj7" _uuid="00000000-0000-0000-0616-D502CDF06CBA" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-a69d_miyw.mtj7">
+            <reportdate>2020-06-14T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>7</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-8spu~b6vn_zmk2" _uuid="00000000-0000-0000-A25A-766995D0201D" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-8spu~b6vn_zmk2">
+            <reportdate>2020-06-14T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>30</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-qrgt.gfe5~tm5k" _uuid="00000000-0000-0000-F29D-57B8D97A57AE" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-qrgt.gfe5~tm5k">
+            <reportdate>2020-06-15T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>7</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-78hg~2vh2.jw9f" _uuid="00000000-0000-0000-7FA2-769C63661C95" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-78hg~2vh2.jw9f">
+            <reportdate>2020-06-15T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>25</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-iprp.iifa-3pzx" _uuid="00000000-0000-0000-B770-6CBB5AED9A47" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-iprp.iifa-3pzx">
+            <reportdate>2020-06-16T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>7</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-mngm_xehg_xhd5" _uuid="00000000-0000-0000-BA64-AFE9F2052528" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-mngm_xehg_xhd5">
+            <reportdate>2020-06-16T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>27</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-im59~84nh-sxuz" _uuid="00000000-0000-0000-AECD-2A11442257E1" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-im59~84nh-sxuz">
+            <reportdate>2020-06-17T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>7</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-pzr5_hq2p.vd9i" _uuid="00000000-0000-0000-EFCD-74CA45F1DBB7" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-pzr5_hq2p.vd9i">
+            <reportdate>2020-06-17T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>25</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-rhe6.2zx9_fjfp" _uuid="00000000-0000-0000-4C4F-CD1EB39C5C0E" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-rhe6.2zx9_fjfp">
+            <reportdate>2020-06-18T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>7</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-6f64_z7y2_nbfx" _uuid="00000000-0000-0000-7800-4CC47AE59683" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-6f64_z7y2_nbfx">
+            <reportdate>2020-06-18T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>22</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-hphc.iaej.ymcb" _uuid="00000000-0000-0000-C7EA-BA4960990A3E" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-hphc.iaej.ymcb">
+            <reportdate>2020-06-19T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>6</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-89ku_96ei_fex4" _uuid="00000000-0000-0000-0333-55D6234585DA" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-89ku_96ei_fex4">
+            <reportdate>2020-06-19T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>20</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-66ss-9rhd~mitd" _uuid="00000000-0000-0000-A96C-C7E14A9ED4FA" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-66ss-9rhd~mitd">
+            <reportdate>2020-06-20T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>6</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-whu7-hfwn~bucs" _uuid="00000000-0000-0000-968F-2A8C0A616771" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-whu7-hfwn~bucs">
+            <reportdate>2020-06-20T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>23</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-wry8_s5cp~5k3b" _uuid="00000000-0000-0000-8020-17983D3A74D3" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-wry8_s5cp~5k3b">
+            <reportdate>2020-06-21T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>7</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-v9rx~y5tx_bp74" _uuid="00000000-0000-0000-33F3-A88892E94A18" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-v9rx~y5tx_bp74">
+            <reportdate>2020-06-21T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>23</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-nb6m-xvsn-tfwg" _uuid="00000000-0000-0000-9E7B-C517B4D02A96" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-nb6m-xvsn-tfwg">
+            <reportdate>2020-06-22T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>8</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-m2dr_kdam-v8da" _uuid="00000000-0000-0000-21A3-2FCF3B79AC13" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-m2dr_kdam-v8da">
+            <reportdate>2020-06-22T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>21</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-wgv5_exzp~ekxa" _uuid="00000000-0000-0000-FB2D-8F95EA167E94" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-wgv5_exzp~ekxa">
+            <reportdate>2020-06-23T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>9</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-kgqh.yqn3~hzna" _uuid="00000000-0000-0000-6BFA-97D7A8F9CD95" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-kgqh.yqn3~hzna">
+            <reportdate>2020-06-23T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>22</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-7dh4~f5nw.fjje" _uuid="00000000-0000-0000-DA51-DB0738F94985" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-7dh4~f5nw.fjje">
+            <reportdate>2020-06-24T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>10</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-8ndi.sug2-4g78" _uuid="00000000-0000-0000-64DF-D585877054ED" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-8ndi.sug2-4g78">
+            <reportdate>2020-06-24T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>18</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-hwcv.47s6_iwxp" _uuid="00000000-0000-0000-1F7C-6D1716B331BA" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-hwcv.47s6_iwxp">
+            <reportdate>2020-06-25T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>11</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-iank-6uvb-74x9" _uuid="00000000-0000-0000-E281-E36E58433C52" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-iank-6uvb-74x9">
+            <reportdate>2020-06-25T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>26</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-34nz-n2zp-ucgj" _uuid="00000000-0000-0000-1158-54CD4721E481" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-34nz-n2zp-ucgj">
+            <reportdate>2020-06-26T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>13</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-chp2.8nzs~q3qu" _uuid="00000000-0000-0000-066D-707A645C4C42" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-chp2.8nzs~q3qu">
+            <reportdate>2020-06-26T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>25</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-vtsf.jbv5.km4p" _uuid="00000000-0000-0000-EA55-27EDD975A486" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-vtsf.jbv5.km4p">
+            <reportdate>2020-06-27T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>13</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-g94r-47iq-amq7" _uuid="00000000-0000-0000-2125-8E052833F81B" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-g94r-47iq-amq7">
+            <reportdate>2020-06-27T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>30</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-hr6s~rbk2~kb8j" _uuid="00000000-0000-0000-1D0D-88186507DC82" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-hr6s~rbk2~kb8j">
+            <reportdate>2020-06-28T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>13</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-3uqh_he7e_n6vr" _uuid="00000000-0000-0000-0E58-F1C887106EE1" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-3uqh_he7e_n6vr">
+            <reportdate>2020-06-28T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>33</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-c4gh-x49k.jt6u" _uuid="00000000-0000-0000-656D-580AD2F8177D" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-c4gh-x49k.jt6u">
+            <reportdate>2020-06-29T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>17</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-bdad.2j5c.dg3n" _uuid="00000000-0000-0000-8A27-C4620D242E6D" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-bdad.2j5c.dg3n">
+            <reportdate>2020-06-29T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>32</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-5nnj.729e-4id4" _uuid="00000000-0000-0000-9B8C-F26DB4ECA97D" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-5nnj.729e-4id4">
+            <reportdate>2020-06-30T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>19</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-w6rj.6kxq_zndw" _uuid="00000000-0000-0000-26DD-9FCADE103671" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-w6rj.6kxq_zndw">
+            <reportdate>2020-06-30T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>31</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-jtks-g4xm_za4t" _uuid="00000000-0000-0000-5C08-71242A8028EE" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-jtks-g4xm_za4t">
+            <reportdate>2020-07-01T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>16</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-buc6.wgr4~vbxe" _uuid="00000000-0000-0000-0468-F8322CF8EFC7" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-buc6.wgr4~vbxe">
+            <reportdate>2020-07-01T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>34</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-dzk5~xm4w.km9j" _uuid="00000000-0000-0000-56C9-CE4E6F5F44CE" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-dzk5~xm4w.km9j">
+            <reportdate>2020-07-02T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>14</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-dzjn~c2u9_swms" _uuid="00000000-0000-0000-FB8F-23CAE6E83AF8" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-dzjn~c2u9_swms">
+            <reportdate>2020-07-02T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>37</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-7y4e_ej2c-6iyb" _uuid="00000000-0000-0000-2CBF-CBF0FB7F8F13" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-7y4e_ej2c-6iyb">
+            <reportdate>2020-07-03T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>15</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-yyw8-4h3x~hzpm" _uuid="00000000-0000-0000-E350-EE7700E038CA" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-yyw8-4h3x~hzpm">
+            <reportdate>2020-07-03T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>36</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-reb2_amq5~5jb8" _uuid="00000000-0000-0000-E7F9-620E3238847F" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-reb2_amq5~5jb8">
+            <reportdate>2020-07-04T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>15</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-j8bp.d8us_dvc4" _uuid="00000000-0000-0000-E832-9DD57C21D42A" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-j8bp.d8us_dvc4">
+            <reportdate>2020-07-04T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>38</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-k5im-dx5h_z3c6" _uuid="00000000-0000-0000-ADD4-7A1A3AFD82C7" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-k5im-dx5h_z3c6">
+            <reportdate>2020-07-05T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>17</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-836g_hedh-kye7" _uuid="00000000-0000-0000-6A17-0F97A4BC2D94" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-836g_hedh-kye7">
+            <reportdate>2020-07-05T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>38</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-77xp_fdrp~prij" _uuid="00000000-0000-0000-CB95-7A15794BB7BC" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-77xp_fdrp~prij">
+            <reportdate>2020-07-06T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>13</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-kh3q_vwzj~z2ke" _uuid="00000000-0000-0000-7156-E53576FE07DF" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-kh3q_vwzj~z2ke">
+            <reportdate>2020-07-06T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>45</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-5mx2_znsg_taqc" _uuid="00000000-0000-0000-9311-562931CD8113" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-5mx2_znsg_taqc">
+            <reportdate>2020-07-06T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>PUI</covidstatus>
+            <patientcount>13</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-dijj_bxir-ikh8" _uuid="00000000-0000-0000-581B-838D5979B4F3" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-dijj_bxir-ikh8">
+            <reportdate>2020-07-07T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>15</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-gtzx~zf4r~z8h2" _uuid="00000000-0000-0000-3366-8B2402F4DB48" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-gtzx~zf4r~z8h2">
+            <reportdate>2020-07-07T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>46</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-72th-i7ms.tpqj" _uuid="00000000-0000-0000-65F4-FB772F8CE4FC" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-72th-i7ms.tpqj">
+            <reportdate>2020-07-07T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>PUI</covidstatus>
+            <patientcount>12</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-np4g.sxqb.yica" _uuid="00000000-0000-0000-EABC-90F81347DAFC" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-np4g.sxqb.yica">
+            <reportdate>2020-07-08T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>17</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-bmzp~am6b-h6bx" _uuid="00000000-0000-0000-3E3D-A0C13B7D1146" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-bmzp~am6b-h6bx">
+            <reportdate>2020-07-08T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>45</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-diks_k4e4-fxw2" _uuid="00000000-0000-0000-3DCB-AD3CBBC360D6" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-diks_k4e4-fxw2">
+            <reportdate>2020-07-09T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>19</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-yvsp-vzpq.h76y" _uuid="00000000-0000-0000-DE20-FDFC5956F4E8" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-yvsp-vzpq.h76y">
+            <reportdate>2020-07-09T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>40</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-jrvb.e3aq_5bxb" _uuid="00000000-0000-0000-551E-E92178A39770" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-jrvb.e3aq_5bxb">
+            <reportdate>2020-07-10T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>22</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-6mq4-qtv3_aeit" _uuid="00000000-0000-0000-9870-2F2DA86B56F4" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-6mq4-qtv3_aeit">
+            <reportdate>2020-07-10T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>40</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-pyzn-q7pz.chdx" _uuid="00000000-0000-0000-F0A4-776E53EDE450" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-pyzn-q7pz.chdx">
+            <reportdate>2020-07-11T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>25</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-9268-fs66~pdwb" _uuid="00000000-0000-0000-E175-B79D541C45D8" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-9268-fs66~pdwb">
+            <reportdate>2020-07-11T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>45</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-pva9~tbf4~3c6n" _uuid="00000000-0000-0000-2B6D-0033D88A1E39" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-pva9~tbf4~3c6n">
+            <reportdate>2020-07-12T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>23</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-n674.y7sn.drf5" _uuid="00000000-0000-0000-2D62-1835E4D00A30" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-n674.y7sn.drf5">
+            <reportdate>2020-07-12T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>51</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-4u83~jvp5-69y6" _uuid="00000000-0000-0000-6CAF-6294095622B0" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-4u83~jvp5-69y6">
+            <reportdate>2020-07-13T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>19</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-jr68-icuh~qbyj" _uuid="00000000-0000-0000-93F6-1C6DF555D95F" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-jr68-icuh~qbyj">
+            <reportdate>2020-07-13T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>57</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-m9cn_43bv.d2pg" _uuid="00000000-0000-0000-AE45-E36D7FD5A339" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-m9cn_43bv.d2pg">
+            <reportdate>2020-07-14T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>23</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-2wb2-g85i_r4uk" _uuid="00000000-0000-0000-C4E1-F41CD83BEE68" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-2wb2-g85i_r4uk">
+            <reportdate>2020-07-14T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>63</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-vjf7_586w~45nc" _uuid="00000000-0000-0000-F548-C98E33CCB573" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-vjf7_586w~45nc">
+            <reportdate>2020-07-15T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>21</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-3w46.gupb_tiha" _uuid="00000000-0000-0000-8823-D94FD6D0B96A" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-3w46.gupb_tiha">
+            <reportdate>2020-07-15T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>59</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-8wu7_3muj_wvrs" _uuid="00000000-0000-0000-C303-BDA0B023A95F" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-8wu7_3muj_wvrs">
+            <reportdate>2020-07-16T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>20</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-zkbx_rmep-kgjt" _uuid="00000000-0000-0000-E94F-ABBF7F8A0802" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-zkbx_rmep-kgjt">
+            <reportdate>2020-07-16T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>63</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-akz6~v4j3_k65n" _uuid="00000000-0000-0000-06E0-5E17C4973611" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-akz6~v4j3_k65n">
+            <reportdate>2020-07-17T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>27</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-v45i.amwv.mvdw" _uuid="00000000-0000-0000-687B-F0B6F54B5A97" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-v45i.amwv.mvdw">
+            <reportdate>2020-07-17T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>56</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-mpq8.wukh~4774" _uuid="00000000-0000-0000-90D0-AACD2A5ED0B0" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-mpq8.wukh~4774">
+            <reportdate>2020-07-18T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>29</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-vair.i69m_64zy" _uuid="00000000-0000-0000-39B3-218B9C8094BF" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-vair.i69m_64zy">
+            <reportdate>2020-07-18T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>61</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-px2e-37qk-652m" _uuid="00000000-0000-0000-7939-439368DD082F" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-px2e-37qk-652m">
+            <reportdate>2020-07-19T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>24</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-2xd6_bjtu.ha9d" _uuid="00000000-0000-0000-2984-AB32E9F6C4B0" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-2xd6_bjtu.ha9d">
+            <reportdate>2020-07-19T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>66</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-3did_5n7m.smem" _uuid="00000000-0000-0000-A57D-8D52D38166A7" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-3did_5n7m.smem">
+            <reportdate>2020-07-20T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>24</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-wusf~4y37_9y3p" _uuid="00000000-0000-0000-3AED-E28A1615CE63" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-wusf~4y37_9y3p">
+            <reportdate>2020-07-20T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>66</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-bnys~2cbw_kx3k" _uuid="00000000-0000-0000-19D8-A10B92B03791" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-bnys~2cbw_kx3k">
+            <reportdate>2020-07-21T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>27</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-8ddd.zyvm.93ja" _uuid="00000000-0000-0000-715A-82F45D372B73" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-8ddd.zyvm.93ja">
+            <reportdate>2020-07-21T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>67</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-8udv~tje3_vjps" _uuid="00000000-0000-0000-2644-31EBF357CA75" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-8udv~tje3_vjps">
+            <reportdate>2020-07-22T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>29</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-zicy~cg3n-usx7" _uuid="00000000-0000-0000-8D88-B4C0EE084BB3" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-zicy~cg3n-usx7">
+            <reportdate>2020-07-22T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>69</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-hhbs_3sv3_7za7" _uuid="00000000-0000-0000-A013-900B61A84DAC" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-hhbs_3sv3_7za7">
+            <reportdate>2020-07-23T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>26</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-5xmz_v56v~cyiv" _uuid="00000000-0000-0000-EDB8-C5D9DEB73ED7" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-5xmz_v56v~cyiv">
+            <reportdate>2020-07-23T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>73</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-rdzd~wvmm_t7gw" _uuid="00000000-0000-0000-C1DA-5F2D7C7B709A" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-rdzd~wvmm_t7gw">
+            <reportdate>2020-07-24T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>27</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-v7uh-rdjg_57gk" _uuid="00000000-0000-0000-F4E6-CD76A588EFDD" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-v7uh-rdjg_57gk">
+            <reportdate>2020-07-24T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>75</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-tz8j_fczm-vcvp" _uuid="00000000-0000-0000-7079-43C9C114EC7B" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-tz8j_fczm-vcvp">
+            <reportdate>2020-07-25T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>28</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-te6j_8qyu~m8bz" _uuid="00000000-0000-0000-725E-C60E6C0DD12E" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-te6j_8qyu~m8bz">
+            <reportdate>2020-07-25T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>73</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-3f3w-rquk-bnsv" _uuid="00000000-0000-0000-BB31-3C3107FD15C8" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-3f3w-rquk-bnsv">
+            <reportdate>2020-07-26T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>33</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-izw7-zdpm.r8gk" _uuid="00000000-0000-0000-E018-E095476DF85D" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-izw7-zdpm.r8gk">
+            <reportdate>2020-07-26T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>71</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-ekpt.v7r5~8wbi" _uuid="00000000-0000-0000-4ECC-54C0C917D49F" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-ekpt.v7r5~8wbi">
+            <reportdate>2020-07-27T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>36</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-nrc2.bibn_tjic" _uuid="00000000-0000-0000-EA21-3BF958ACAFB6" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-nrc2.bibn_tjic">
+            <reportdate>2020-07-27T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>73</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-vgxi-ey24.zvk2" _uuid="00000000-0000-0000-96FC-0E52712D3531" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-vgxi-ey24.zvk2">
+            <reportdate>2020-07-28T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>37</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-fcwj.9cg8-qx72" _uuid="00000000-0000-0000-65C6-049D03ED2A15" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-fcwj.9cg8-qx72">
+            <reportdate>2020-07-29T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>37</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-6uxk_jfdw_ny96" _uuid="00000000-0000-0000-A27A-819ADCD4FCB6" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-6uxk_jfdw_ny96">
+            <reportdate>2020-07-29T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>68</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-tqnc~ym65-5h75" _uuid="00000000-0000-0000-781D-74936F69ED9D" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-tqnc~ym65-5h75">
+            <reportdate>2020-07-30T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>38</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-j26e-p7nk_binq" _uuid="00000000-0000-0000-327C-88971A94AF05" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-j26e-p7nk_binq">
+            <reportdate>2020-07-30T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>72</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-4u6f~egaw-b8cv" _uuid="00000000-0000-0000-A154-26EB96B4E17E" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-4u6f~egaw-b8cv">
+            <reportdate>2020-07-31T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>35</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-7k2p-xfk2_32ap" _uuid="00000000-0000-0000-9D05-37D629070EC9" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-7k2p-xfk2_32ap">
+            <reportdate>2020-07-31T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>Med/Surg</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>68</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-v4cp.t5hf-kfix" _uuid="00000000-0000-0000-3906-3CF0C10FB180" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-v4cp.t5hf-kfix">
+            <reportdate>2020-08-01T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>32</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-6v84_6yjm~z3ae" _uuid="00000000-0000-0000-D96A-39F6994C6AC6" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-6v84_6yjm~z3ae">
+            <reportdate>2020-08-02T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>34</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-zbx3~edac.h7yy" _uuid="00000000-0000-0000-20F4-26A840C6FD17" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-zbx3~edac.h7yy">
+            <reportdate>2020-08-03T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>32</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-w7c6_ryh5~bg7w" _uuid="00000000-0000-0000-51FE-F6E164C5A5DE" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-w7c6_ryh5~bg7w">
+            <reportdate>2020-08-04T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>31</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-9rtz~qxh2~mmee" _uuid="00000000-0000-0000-B368-AB45A62B227E" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-9rtz~qxh2~mmee">
+            <reportdate>2020-08-05T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>29</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-rt7y.fqsf~gf2i" _uuid="00000000-0000-0000-6882-8691328A12BA" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-rt7y.fqsf~gf2i">
+            <reportdate>2020-08-06T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>29</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-upj7_7c3p_rmvd" _uuid="00000000-0000-0000-88BA-A7E5C0EA5A75" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-upj7_7c3p_rmvd">
+            <reportdate>2020-08-07T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>27</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-gga7.tzru_i9z3" _uuid="00000000-0000-0000-4310-9361B34DB6D4" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-gga7.tzru_i9z3">
+            <reportdate>2020-08-08T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>30</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-jsqd-dmtr_75h5" _uuid="00000000-0000-0000-61BA-B2BB50E5200E" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-jsqd-dmtr_75h5">
+            <reportdate>2020-08-09T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>27</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+        <row _id="row-qi23-7cxt.cf2p" _uuid="00000000-0000-0000-96F7-767F6D7170BD" _position="0" _address="https://data.sfgov.org/resource/nxjg-bhem/row-qi23-7cxt.cf2p">
+            <reportdate>2020-08-10T00:00:00</reportdate>
+            <hospital>All SF Hospitals</hospital>
+            <dphcategory>ICU</dphcategory>
+            <covidstatus>COVID+</covidstatus>
+            <patientcount>31</patientcount>
+            <data_as_of>2022-11-03T14:30:02</data_as_of>
+            <data_loaded_at>2022-11-04T09:05:58</data_loaded_at>
+        </row>
+    </row>
+</response>
