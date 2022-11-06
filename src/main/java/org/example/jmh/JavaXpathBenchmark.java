@@ -63,7 +63,7 @@ public class JavaXpathBenchmark {
         }
         try {
             XPath javaxXpath = XPATH_FACTORY.newXPath();
-            String value = javaxXpath.evaluate(xpath, xmlDoc.getDocumentElement());// NOSONAR
+            String value = javaxXpath.evaluate(xpath, xmlDoc.getDocumentElement());
             return Optional.of(value);
         } catch (XPathExpressionException ignored) {
 
@@ -77,7 +77,7 @@ public class JavaXpathBenchmark {
             return Optional.empty();
         }
         try {
-            String value = compiledXpath.evaluate(xmlDoc.getDocumentElement());// NOSONAR
+            String value = compiledXpath.evaluate(xmlDoc.getDocumentElement());
             return Optional.of(value);
         } catch (XPathExpressionException ignored) {
 
